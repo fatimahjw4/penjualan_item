@@ -44,6 +44,29 @@ Tabel probabilitas, probabilitas kumulatif, dan interval bilangan acak yang tela
 | Sedang | 0,50 | 0,75 | 26–75 |
 | Ramai | 0,25 | 1,00 | 76–100 |
 
+
+### Rumus yang Digunakan
+
+**Probabilitas:**
+$$P = \frac{\text{Frekuensi kondisi}}{\text{Total hari pengamatan}}$$
+
+**Probabilitas Kumulatif:**
+Probabilitas kumulatif diperoleh dengan menjumlahkan probabilitas secara bertahap dari kondisi sebelumnya.
+
+**3. Rata-rata Teoritis Harian:**
+$$E(X) = \sum (P_i \times X_i)$$
+
+Keterangan:
+- P = Probabilitas setiap kondisi
+- X = Rata-rata penjualan setiap kondisi
+
+Hasil rata-rata teoritis harian sebesar **599,64 item**.
+
+**Rata-rata Teoritis Selama 30 Hari:**
+$$E(X_{30}) = E(X) \times 30$$
+
+Dari hasil perhitungan sebelum pembulatan, diperoleh perkiraan total penjualan selama 30 hari sebesar **17.989,11 item**.
+
 ## 4. Hasil Simulasi
 
 Setelah dilakukan **1.000 percobaan simulasi**, hasil yang diperoleh adalah:
