@@ -58,7 +58,7 @@ Hasil simulasi Monte Carlo menunjukkan rata-rata penjualan harian sebesar **602,
 
 ### Grafik Frekuensi Kondisi Penjualan dan Total Penjualan Selama 30 Hari
 
-![Grafik frekuensi kondisi penjualan dan total penjualan selama 30 hari](grafik_simulasi.png)
+![Grafik frekuensi kondisi penjualan dan total penjualan selama 30 hari](grafik_monte_carlo.png)
 
 ## 5. Kesimpulan
 
@@ -67,3 +67,8 @@ Simulasi Monte Carlo menghasilkan rata-rata penjualan harian sebesar **602,69 it
 Untuk periode 30 hari, jumlah penjualan yang dihasilkan simulasi berbeda-beda pada setiap percobaan, tetapi umumnya berada di sekitar **18.000 item**. Hasil tersebut mendekati perhitungan teoritis sebesar **17.989,11 item**.
 
 Berdasarkan hasil tersebut, metode Monte Carlo dapat digunakan untuk memperkirakan jumlah penjualan roti dengan mempertimbangkan kemungkinan perubahan jumlah penjualan setiap harinya.
+
+**Persentase Penggunaan AI**
+Untuk mengecek penggunaan AI pada tugas ini, saya menggunakan Turnitin AI by GPTZero. Dari hasil pengecekan, didapatkan skor AI sebesar 1%. Berikut screenshot hasil pengecekannya sebagai bukti.
+<img width="808" height="795" alt="image" src="https://github.com/user-attachments/assets/0cdf9658-8e82-418d-8e75-b952b9fa5e23" />
+
