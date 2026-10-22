@@ -1,4 +1,3 @@
-
 # SIMULASI MONTE CARLO UNTUK MEMPERKIRAKAN JUMLAH ITEM YANG TERJUAL PADA SEBUAH TOKO ROTI MENGGUNAKAN BAHASA R
 
 **Nama:** Fatimatuzahro Juliawati  
@@ -48,12 +47,14 @@ Tabel probabilitas, probabilitas kumulatif, dan interval bilangan acak yang tela
 ### Rumus yang Digunakan
 
 **Probabilitas:**
+
 $$P = \frac{\text{Frekuensi kondisi}}{\text{Total hari pengamatan}}$$
 
 **Probabilitas Kumulatif:**
-Probabilitas kumulatif diperoleh dengan menjumlahkan probabilitas secara bertahap dari kondisi sebelumnya.
+Probabilitas kumulatif dihitung dari menjumlahkan probabilitas secara bertahap dari kondisi sebelumnya.
 
-**3. Rata-rata Teoritis Harian:**
+**Rata-rata Teoritis Harian:**
+
 $$E(X) = \sum (P_i \times X_i)$$
 
 Keterangan:
@@ -63,6 +64,7 @@ Keterangan:
 Hasil rata-rata teoritis harian sebesar **599,64 item**.
 
 **Rata-rata Teoritis Selama 30 Hari:**
+
 $$E(X_{30}) = E(X) \times 30$$
 
 Dari hasil perhitungan sebelum pembulatan, diperoleh perkiraan total penjualan selama 30 hari sebesar **17.989,11 item**.
