@@ -70,5 +70,6 @@ Berdasarkan hasil tersebut, metode Monte Carlo dapat digunakan untuk memperkirak
 
 **Persentase Penggunaan AI**
 Untuk mengecek penggunaan AI pada tugas ini, saya menggunakan Turnitin AI by GPTZero. Dari hasil pengecekan, didapatkan skor AI sebesar 1%. Berikut screenshot hasil pengecekannya sebagai bukti.
+
 <img width="808" height="795" alt="image" src="https://github.com/user-attachments/assets/0cdf9658-8e82-418d-8e75-b952b9fa5e23" />
 
